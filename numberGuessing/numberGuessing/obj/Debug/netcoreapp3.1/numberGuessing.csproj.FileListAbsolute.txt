@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.exe
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.deps.json
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.runtimeconfig.json
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.dll
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.pdb
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.AssemblyInfo.cs
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.dll
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.pdb
+C:\Users\Acer\source\repos\numberGuessing\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.genruntimeconfig.cache
